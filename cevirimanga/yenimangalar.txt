@@ -1,0 +1,45 @@
+    
+<!--Classroom Of The Elites Manga Divi-->
+
+    <div class='manga'>
+        <div class='mangaresim'>
+        <a href='mangalar/classroom-of-the-elites/classroom-of-the-elites.php'>
+            <img src='mangalar/classroom-of-the-elites/kapak-fotografi/classroom-of-the-elites.jpg' alt='Classroom Of The Elites' />
+        </a>
+        </div>
+        <div class='mangatext'>
+            <a href='mangalar/classroom-of-the-elites/classroom-of-the-elites.php'>
+                <h3>Classroom Of The Elites</h3>
+            </a>
+        </div>
+    </div>
+        
+<!--Blue Lock Manga Divi-->
+
+    <div class='manga'>
+        <div class='mangaresim'>
+        <a href='mangalar/blue-lock/blue-lock.php'>
+            <img src='mangalar/blue-lock/kapak-fotografi/blue-lock.jpg' alt='Blue Lock' />
+        </a>
+        </div>
+        <div class='mangatext'>
+            <a href='mangalar/blue-lock/blue-lock.php'>
+                <h3>Blue Lock</h3>
+            </a>
+        </div>
+    </div>
+    
+<!--Vinland Saga Manga Divi-->
+
+    <div class="manga">
+      <div class="mangaresim">
+        <a href="mangalar/vinland-saga/vinland-saga.php">
+          <img src="mangalar/vinland-saga/kapak-fotografi/vinland-saga.jpg" alt="Vinland Saga" />
+        </a>
+      </div>
+      <div class="mangatext">
+        <a href="mangalar/vinland-saga/vinland-saga.php">
+          <h3>Vinland Saga</h3>
+        </a>
+      </div>
+    </div>
