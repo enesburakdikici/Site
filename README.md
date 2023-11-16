@@ -1,1 +1,1 @@
-# site
+Henüz tamamlanmamış proje dosyası
